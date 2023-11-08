@@ -1,6 +1,6 @@
 let reviews = document.querySelectorAll(".review");
 let currentReview = 0;
-// console.log(reviews)
+
 
 function hideAllReviews() {
   reviews.forEach((review) => {
